@@ -180,8 +180,6 @@ Oracle Visual Builder Cloud Service (VBCS)**
 
 </div>
 
----
-
 # 📈 GitHub Statistics
 
 <div align="center">
@@ -198,8 +196,6 @@ Oracle Visual Builder Cloud Service (VBCS)**
 
 </div>
 
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
@@ -209,8 +205,6 @@ Oracle Visual Builder Cloud Service (VBCS)**
 />
 
 </div>
-
----
 
 # 🧩 Areas of Interest
 
