@@ -147,22 +147,16 @@ Oracle Visual Builder Cloud Service (VBCS)**
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_HANDLE](https://github.com/Abhinav-273)&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Abhinav-273&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=https://github.com/Abhinav-273&theme=github-dark-blue&hide_border=true" />
+<a href="https://github.com/Abhinav-273">
+  <img src="https://img.shields.io/github/followers/Abhinav-273?style=for-the-badge&logo=github&color=0A66C2&label=Followers" />
+</a>
+<a href="https://github.com/Abhinav-273?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Abhinav-273?style=for-the-badge&logo=github&color=FFD700&label=Total%20Stars" />
+</a>
 
 </div>
 
