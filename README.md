@@ -162,7 +162,7 @@ Oracle Visual Builder Cloud Service (VBCS)**
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=[YOUR_GITHUB_HANDLE](https://github.com/Abhinav-273)&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=https://github.com/Abhinav-273&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
