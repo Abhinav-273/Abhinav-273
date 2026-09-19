@@ -151,8 +151,8 @@ Oracle Visual Builder Cloud Service (VBCS)**
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_HANDLE&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_HANDLE&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_HANDLE](https://github.com/Abhinav-273)&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Abhinav-273&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -162,7 +162,7 @@ Oracle Visual Builder Cloud Service (VBCS)**
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_HANDLE&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=[YOUR_GITHUB_HANDLE](https://github.com/Abhinav-273)&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
