@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinav-akash-607060226/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="mailto:akashabhinav273@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -25,9 +26,7 @@
 ☁️ Experienced with **Oracle Cloud Infrastructure & Data Integration**  
 🐍 Strong foundation in **Python, SQL, Data Analysis & Machine Learning**
 
-I enjoy building practical AI and data-driven solutions involving
-**machine learning, predictive analytics, time-series forecasting,
-data pipelines, NLP and Generative AI.**
+I enjoy building practical AI and data-driven solutions involving **machine learning, predictive analytics, time-series forecasting, data pipelines, NLP, and Generative AI.**
 
 ---
 
@@ -36,9 +35,9 @@ data pipelines, NLP and Generative AI.**
 ### 🏢 Cognizant
 **Data / Cloud Integration | July 2025 – November 2025**
 
-- Developed enterprise integration solutions using **Oracle Integration Cloud (OIC), SOA Suite, Oracle Visual Builder and OCI**
+- Developed enterprise integration solutions using **Oracle Integration Cloud (OIC), SOA Suite, Oracle Visual Builder, and OCI**
 - Designed secure **SFTP-based integration workflows**
-- Worked on data extraction, transformation and validation workflows
+- Worked on data extraction, transformation, and validation workflows
 - Assisted in troubleshooting integration issues and application performance optimization
 
 ### 🛰️ Defence Research and Development Laboratories
@@ -50,12 +49,12 @@ data pipelines, NLP and Generative AI.**
 
 ---
 
-# 🧠 Technical Skills
+## 🧠 Technical Skills
 
-### 💻 Programming
+### 💻 Programming & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 </p>
 
 **Python • SQL • OOPs • Data Structures**
@@ -79,8 +78,8 @@ Feature Engineering • Model Evaluation • Time-Series Forecasting**
 
 ### 🐍 Python Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,numpy,pandas,scikitlearn" />
 </p>
 
 **Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn**
@@ -102,65 +101,45 @@ Oracle Visual Builder Cloud Service (VBCS)**
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 📈 Retail Demand Forecasting Using XGBoost
-
+### 📈 Retail Demand Forecasting Using XGBoost
 **Machine Learning • Time Series • XGBoost • Python**
 
 - Built a demand forecasting model using **1M+ retail records**
-- Performed time-series feature engineering
-- Developed an **XGBoost forecasting model**
-- Achieved **R² = 0.9601**
-- Achieved **MAE = 2.60**
-- Achieved **RMSE = 3.26**
+- Performed time-series feature engineering and developed an **XGBoost forecasting model**
+- Achieved **R² = 0.9601**, **MAE = 2.60**, and **RMSE = 3.26**
 - Created an inventory recommendation module for data-driven stock planning
 
 ---
 
-## ✈️ Flight Fare Prediction Using Random Forest
-
+### ✈️ Flight Fare Prediction Using Random Forest
 **Machine Learning • Random Forest • Regression**
 
 - Built a flight fare prediction model using **Random Forest Regressor**
-- Performed data cleaning and preprocessing
-- Applied feature engineering and categorical encoding
-- Evaluated model performance using regression metrics
-- Used hyperparameter tuning to improve prediction accuracy
+- Applied feature engineering, categorical encoding, and hyperparameter tuning
 
 ---
 
-## 🌦️ Multivariate Time Series Prediction
-
+### 🌦️ Multivariate Time Series Prediction
 **LSTM • Attention • Deep Learning • Time Series**
 
-- Developed a **Hybrid LSTM-Attention model**
-- Worked with multivariate climate datasets
-- Performed normalization and feature engineering
-- Evaluated forecasting performance using regression metrics
+- Developed a **Hybrid LSTM-Attention model** for multivariate climate datasets
+- Performed normalization, feature engineering, and performance evaluation
 
 ---
 
-## 🤖 AI Job Application Analyzer
-
+### 🤖 AI Job Application Analyzer
 **Streamlit • NLP • TF-IDF • Gemini AI • Scikit-learn**
 
 - Built an AI-powered application for comparing resumes with job descriptions
-- Implemented **NLP-based text similarity and skill matching**
-- Integrated **Gemini AI** for:
-  - Resume-fit analysis
-  - Missing-skill identification
-  - Improvement suggestions
-  - Technical interview questions
-- Built a Streamlit interface
-- Implemented PDF resume extraction and match scoring
+- Implemented **NLP-based text similarity** and integrated **Gemini AI** for resume-fit analysis and skill gap identification
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
 ### 🤖 Artificial Intelligence
-
 - **Oracle Cloud Infrastructure 2025 AI Foundations Associate**
 - **Oracle Cloud Infrastructure 2025 GEN AI Professional**
 - **Tessolve – AI & ML Using Python**
@@ -168,51 +147,35 @@ Oracle Visual Builder Cloud Service (VBCS)**
 
 ---
 
-# 📊 GitHub Analytics
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="./metrics.svg" width="100%" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_HANDLE&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_HANDLE&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 
 </div>
 
-# 📈 GitHub Statistics
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_HANDLE&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
-# 🔥 Contribution Streak
+---
 
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"
-/>
-
-</div>
-
-# 🧩 Areas of Interest
+## 🧩 Areas of Interest
 
 ```text
 🤖 Artificial Intelligence
 🧠 Generative AI
-📊 Data Analytics
-📈 Predictive Analytics
-🐍 Machine Learning
-🔮 Deep Learning
+📊 Data Analytics & Predictive Analytics
+🐍 Machine Learning & Deep Learning
 📅 Time-Series Forecasting
-🗄️ Data Engineering
+🗄️ Data Engineering & Data Pipelines
 ☁️ Cloud Integration
-🔗 Data Pipelines
 💬 Natural Language Processing
