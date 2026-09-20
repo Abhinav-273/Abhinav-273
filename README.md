@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Banner.png" alt="Welcome to My Tech World Banner" width="100%" />
+<img src="./banner.png" alt="Welcome to My Tech World Banner" width="100%" />
 
 ### 🤖 Machine Learning Engineer | Data Engineer | AI Enthusiast
 
@@ -14,7 +14,6 @@
 </p>
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
