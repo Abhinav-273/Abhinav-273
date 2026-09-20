@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝑲. 𝑨𝒃𝒉𝒊𝒏𝒂𝒗 𝑨𝒌𝒂𝒔𝒉
+<img src="./Banner.png" alt="Welcome to My Tech World Banner" width="100%" />
 
 ### 🤖 Machine Learning Engineer | Data Engineer | AI Enthusiast
 
@@ -79,7 +79,11 @@ Feature Engineering • Model Evaluation • Time-Series Forecasting**
 ### 🐍 Python Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,numpy,pandas,scikitlearn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 **Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn**
@@ -151,11 +155,11 @@ Oracle Visual Builder Cloud Service (VBCS)**
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=0A66C2&label=Followers" />
+<a href="https://github.com/Abhinav-273">
+  <img src="https://img.shields.io/github/followers/Abhinav-273?style=for-the-badge&logo=github&color=0A66C2&label=Followers" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=FFD700&label=Total%20Stars" />
+<a href="https://github.com/Abhinav-273?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Abhinav-273?style=for-the-badge&logo=github&color=FFD700&label=Total%20Stars" />
 </a>
 
 </div>
