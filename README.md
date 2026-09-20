@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 K. Abhinav Akash
+# 𝑲. 𝑨𝒃𝒉𝒊𝒏𝒂𝒗 𝑨𝒌𝒂𝒔𝒉
 
 ### 🤖 Machine Learning Engineer | Data Engineer | AI Enthusiast
 
@@ -151,11 +151,11 @@ Oracle Visual Builder Cloud Service (VBCS)**
 
 <div align="center">
 
-<a href="https://github.com/Abhinav-273">
-  <img src="https://img.shields.io/github/followers/Abhinav-273?style=for-the-badge&logo=github&color=0A66C2&label=Followers" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=0A66C2&label=Followers" />
 </a>
-<a href="https://github.com/Abhinav-273?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Abhinav-273?style=for-the-badge&logo=github&color=FFD700&label=Total%20Stars" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=FFD700&label=Total%20Stars" />
 </a>
 
 </div>
